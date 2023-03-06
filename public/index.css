@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+
+.strip{
+    background-image:url("img/pexels-dids-1367036.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 20vh;
+}
+.strip .container{
+    background-color: rgba(240, 248, 255, 0.404);
+    min-height: 20vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.strip h1{
+    text-align: center;
+    font-family: 'Rubik Iso', cursive;
+    font-size: 9em;
+}
+
+main table li{
+    padding: 8px;
+}
+main table .get{
+    background-color: rgba(47, 134, 255, 0.308);
+    border: 4px solid white;
+}
+main .get .method{
+    background-color: rgba(0, 0, 255, 0.434);
+    border-radius: 8px;
+    margin: 4px;
+}
+main table .post{
+    background-color: rgba(86, 165, 86, 0.308);
+    border: 4px solid white;
+}
+main .post .method{
+    background-color: rgba(40, 130, 79, 0.434);
+    border-radius: 8px;
+    margin: 4px;
+}
+main table .put{
+    background-color: rgba(255, 145, 0, 0.466);
+    border: 4px solid white;
+}
+main .put .method{
+    background-color: rgba(255, 153, 0, 0.551);
+    border-radius: 8px;
+    margin: 4px;
+}
+main table .delete{
+    background-color: rgba(247, 65, 65, 0.308);
+    border: 4px solid white;
+}
+main .delete .method{
+    background-color: rgba(255, 0, 0, 0.434);
+    border-radius: 8px;
+    margin: 4px;
+}
