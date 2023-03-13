@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap" rel="stylesheet">
@@ -18,11 +19,13 @@
     <div class="strip container-fluid">
         <div class="container">
             <h1>GAMES API</h1>
+            <a href="#document"><i class="down fa fa-angle-double-down text-center" aria-hidden="true"></i>
+            </a>
         </div>
     </div>
     <main class="container-fluid">
         <div class="container">
-            <h2 class="display-2 text-center mt-3">Documentation</h2>
+            <h2 id="document" class="display-2 text-center mt-3">Documentation</h2>
             <table class="table lead align-middle">
                 <thead class="text-center">
                     <tr>
@@ -41,16 +44,28 @@
                             <ul>
                                 <li><strong>?perPage={number} (optional): </strong>choose the number of games to show
                                     per page (default perPage = 10)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?perPage=10">https://gs.cyclic.app/games?perPage=10</a>
                                 </li>
                                 <li><strong>?page={number} (optional): </strong>search by page number (default page = 1)
+                                    <br>
+                                    <a href="https://gs.cyclic.app/games?page=1">https://gs.cyclic.app/games?page=1</a>
                                 </li>
                                 <li><strong>?sort={sortBy} (optional): </strong>sort the list by parameter you choose
-                                    (default sort
-                                    = id)</li>
+                                    (default sort = id)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?sort=_id">https://gs.cyclic.app/games?sort=_id</a>
+                                </li>
                                 <li><strong>?reverse={yes/no} (optional): </strong>If yes is sorts the list from highest
                                     to lowest
                                     else
-                                    sorts the list from lowest to highest (default reverse = no)</li>
+                                    sorts the list from lowest to highest (default reverse = no)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?reverse=no">https://gs.cyclic.app/games?reverse=no</a>
+                                </li>
                             </ul>
                         </td>
                     </tr>
@@ -61,7 +76,11 @@
                         <td>Returns single game by id</td>
                         <td>
                             <ul>
-                                <li><strong>:id(required): </strong>the game ID to search for</li>
+                                <li><strong>:id(required): </strong>the game ID to search for
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games/single/6406200c42630aa68f930e8f">https://gs.cyclic.app/games/single/6406200c42630aa68f930e8f</a>
+                                </li>
                             </ul>
                         </td>
                     </tr>
@@ -73,19 +92,37 @@
                         <td>
                             <ul>
                                 <li><strong>?s={search}(optional): </strong>search query to match game's name or
-                                    description</li>
+                                    description
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games/search?s=yo-yo">https://gs.cyclic.app/games/search?s=yo-yo</a>
+                                </li>
                                 <li><strong>?perPage={number} (optional): </strong>choose the number of games to show
                                     per page (default perPage = 10)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?perPage=10">https://gs.cyclic.app/games?perPage=10</a>
                                 </li>
                                 <li><strong>?page={number} (optional): </strong>search by page number (default page = 1)
+                                    <br>
+                                    <a href="https://gs.cyclic.app/games?page=1">https://gs.cyclic.app/games?page=1</a>
+
                                 </li>
                                 <li><strong>?sort={sortBy} (optional): </strong>sort the list by parameter you choose
                                     (default sort
-                                    = id)</li>
+                                    = id)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?sort=_id">https://gs.cyclic.app/games?sort=_id</a>
+                                </li>
                                 <li><strong>?reverse={yes/no} (optional): </strong>If yes is sorts the list from highest
                                     to lowest
                                     else
-                                    sorts the list from lowest to highest (default reverse = no)</li>
+                                    sorts the list from lowest to highest (default reverse = no)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?reverse=no">https://gs.cyclic.app/games?reverse=no</a>
+                                </li>
                             </ul>
                         </td>
                     </tr>
@@ -98,20 +135,36 @@
                             <ul class="px-5 row justify-content-center py-0">
                                 <li><strong>?min={minPrice}(optional): </strong> the minimum price for filtering
                                     (default minimun =
-                                    0)</li>
+                                    0)
+                                    <br>
+                                    <a href="https://gs.cyclic.app/games?min=0">https://gs.cyclic.app/games?min=0</a>
+                                </li>
                                 <li><strong>?max={maxPrice}(optional): </strong> the maximum price for filtering
                                     (default maximun =
-                                    no limit)</li>
+                                    no limit)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?max=infinity">https://gs.cyclic.app/games?max=infinity</a>
+                                </li>
                                 <li><strong>?perPage={number} (optional): </strong>choose the number of games to show
                                     per page (default perPage = 10)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?perPage=10">https://gs.cyclic.app/games?perPage=10</a>
                                 </li>
                                 <li><strong>?page={number} (optional): </strong>search by page number (default page = 1)
+                                    <br>
+                                    <a href="https://gs.cyclic.app/games?page=1">https://gs.cyclic.app/games?page=1</a>
                                 </li>
                                 <li><strong>?reverse={yes/no} (optional): </strong>If yes is sorts the list from highest
                                     to lowest
                                     prices
                                     else
-                                    sorts the list from lowest to highest prices(default reverse = no)</li>
+                                    sorts the list from lowest to highest prices(default reverse = no)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?reverse=no">https://gs.cyclic.app/games?reverse=no</a>
+                                </li>
                             </ul>
                         </td>
                     </tr>
@@ -125,9 +178,14 @@
                                 <li><strong>:categoryName (required): </strong>The game category to search for</li>
                                 <li><strong>?perPage={number} (optional): </strong>choose the number of games to show
                                     per page (default perPage = 10)
+                                    <br>
+                                    <a
+                                        href="https://gs.cyclic.app/games?perPage=10">https://gs.cyclic.app/games?perPage=10</a>
                                 </li>
                                 <li>
                                     <strong>?page={number} (optional): </strong>search by page number (default page = 1)
+                                    <br>
+                                    <a href="https://gs.cyclic.app/games?page=1">https://gs.cyclic.app/games?page=1</a>
                                 </li>
                             </ul>
                         </td>
@@ -270,6 +328,13 @@
             </table>
         </div>
     </main>
+    <footer class="container-fluid text-center">
+        <div class="container">
+            <p class="lead">
+                <i class="fa fa-copyright" aria-hidden="true"></i> Raz Shuker
+            </p>
+        </div>
+    </footer>
 </body>
 
 </html>

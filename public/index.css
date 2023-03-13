@@ -6,19 +6,36 @@
     background-image:url("img/pexels-dids-1367036.jpg");
     background-position: center;
     background-size: cover;
-    min-height: 20vh;
+    min-height: 100vh;
 }
 .strip .container{
     background-color: rgba(240, 248, 255, 0.404);
-    min-height: 20vh;
+    min-height: 100vh;
 display: flex;
+flex-wrap: wrap;
 justify-content: center;
 align-items: center;
 }
 .strip h1{
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    width: 100%;
     text-align: center;
     font-family: 'Rubik Iso', cursive;
     font-size: 9em;
+}
+
+.strip a{
+    display: block;
+    position: absolute;
+    top: 80vh;
+    margin-top: 24px;
+    font-size: 4em;
+    text-decoration: none;
+    color: black;
+    transition: 800ms;
+}
+.strip a:hover{
+    transform: translateY(20px);
 }
 
 main table li{
@@ -59,4 +76,18 @@ main .delete .method{
     background-color: rgba(255, 0, 0, 0.434);
     border-radius: 8px;
     margin: 4px;
+}
+
+footer{
+    background-image:url("img/pexels-dids-1367036.jpg");
+    background-position: right center;
+    background-size: cover;
+    min-height: 100px;
+}
+footer .container{
+    min-height: 100px;
+    background-color: rgba(240, 248, 255, 0.404);
+    display: flex;
+justify-content: center;
+align-items: center;
 }
