@@ -49,6 +49,7 @@ main .get .method{
     background-color: rgba(0, 0, 255, 0.434);
     border-radius: 8px;
     margin: 4px;
+    text-align: center;
 }
 main table .post{
     background-color: rgba(86, 165, 86, 0.308);
@@ -58,6 +59,7 @@ main .post .method{
     background-color: rgba(40, 130, 79, 0.434);
     border-radius: 8px;
     margin: 4px;
+    text-align: center;
 }
 main table .put{
     background-color: rgba(255, 145, 0, 0.466);
@@ -67,6 +69,7 @@ main .put .method{
     background-color: rgba(255, 153, 0, 0.551);
     border-radius: 8px;
     margin: 4px;
+    text-align: center;
 }
 main table .delete{
     background-color: rgba(247, 65, 65, 0.308);
@@ -76,6 +79,7 @@ main .delete .method{
     background-color: rgba(255, 0, 0, 0.434);
     border-radius: 8px;
     margin: 4px;
+    text-align: center;
 }
 
 footer{
