@@ -1,0 +1,215 @@
+[
+    {
+        "name": "yo-yo",
+        "description": "Though its history can be traced back to nearly 500 B.C., the yo-yo didn't find mainstream success until the late 1920s, when a young U.S. immigrant named Pedro Flores ignited an international craze. Born in the Philippines, Flores saw the toy's potential in the U.S. after remembering its Filipino popularity. (It had received the name yoyo there hundreds of years before.) While working as a bellboy, Flores founded the Yo-yo Manufacturing Company in 1928. After selling handmade yo-yos to children around Los Angeles, he was able to secure financing to open a factory. Within a year, the company was producing 300,000 yo-yos a day, and Flores' 'Wonder Toy' achieved craze status in the U.S., with yo-yo contests popping up all over the country.",
+        "category": "",
+        "price": 20,
+        "img_url": "https://media.istockphoto.com/id/976395496/photo/close-up-of-a-wooden-yo-yo-with-yellow-string-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=tRXWpdoVttz8o0sYhikHei7YeKbJSnngW5XrIU3IPTM="
+    },
+    {
+        "name": "monopol",
+        "description": "Monopoly is a multi-player economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties and developing them with houses and hotels. Players collect rent from their opponents, aiming to drive them into bankruptcy. Money can also be gained or lost through Chance and Community Chest cards and tax squares. Players receive a stipend every time they pass 'Go' and can end up in jail, from which they cannot move until they have met one of three conditions. House rules, hundreds of different editions, many spin-offs, and related media exist.",
+        "category": "board-game",
+        "price": 55,
+        "img_url": "https://images.pexels.com/photos/4004426/pexels-photo-4004426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "all-fours",
+        "description": "All Fours is a traditional English card game, once popular in pubs and taverns as well as among the gentry, that flourished as a gambling game until the end of the 19th century. It is a trick-taking card game that was originally designed for two players, but developed variants for more players. According to Cotton, the game originated in Kent, but spread to the whole of England and eventually abroad. It is the eponymous and earliest recorded game of a family that flourished most in 19th century North America and whose progeny include Pitch, Pedro and Cinch, games that even competed with Poker and Euchre. Nowadays the original game is especially popular in Trinidad and Tobago, but regional variants have also survived in England. The game's 'great mark of distinction' is that it gave the name 'Jack' to the card previously known as the Knave.",
+        "category": "card-game",
+        "price": 25,
+        "img_url": "https://images.pexels.com/photos/39018/cards-jass-cards-card-game-strategy-39018.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "taki",
+        "description": "Taki is a card game developed by Israeli game inventor Haim Shafir. The game is an advanced variant of Crazy Eights (which is played with regular deck of playing cards) with a special card deck and extended game options. In its basic form it resembles UNO. It was introduced in 1983 by Shafir Games. The game cards were designed by Israeli artist Ari Ron.",
+        "category": "card-game",
+        "price": 16
+    },
+    {
+        "name": "football-ball",
+        "description": "Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. ",
+        "category": "ball-game",
+        "price": 32,
+        "img_url": "https://images.pexels.com/photos/3074920/pexels-photo-3074920.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "american football-ball",
+        "description": "American football (referred to simply as football in the United States and Canada), also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or passing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves.",
+        "category": "ball-game",
+        "price": 100,
+        "img_url": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "basketball-ball",
+        "description": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball (approximately 9.4 inches (24 cm) in diameter) through the defender's hoop (a basket 18 inches (46 cm) in diameter mounted 10 feet (3.048 m) high to a backboard at each end of the court), while preventing the opposing team from shooting through their own hoop.",
+        "category": "ball-game",
+        "price": 58,
+        "img_url": "https://images.pexels.com/photos/6777233/pexels-photo-6777233.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "war",
+        "description": "War (also known as Battle in the United Kingdom) is a simple card game, typically played by two players using a standard playing card deck— and often played by children. There are many variations, as well as related games such as the German 32-card Tod und Leben ('Life and Death').",
+        "category": "card-game",
+        "price": 58
+    },
+    {
+        "name": "catan",
+        "description": "Catan, previously known as The Settlers of Catan or simply Settlers, is a multiplayer board game designed by Klaus Teuber. It was first published in 1995 in Germany by Franckh-Kosmos Verlag (Kosmos) as Die Siedler von Catan. Players take on the roles of settlers, each attempting to build and develop holdings while trading and acquiring resources. Players gain victory points as their settlements grow; the first to reach a set number of victory points, typically 10, wins.",
+        "category": "board-game",
+        "price": 70
+    },
+    {
+        "name": "Lego Cars - Ferrari F40",
+        "description": "Get up close to one of the world’s greatest supercars—the Ferrari F40! This awesome LEGO® Creator Expert replica of the iconic sports car with its sleek aerodynamic lines, distinctive rear spoiler and racing-red bodywork.",
+        "category": "Lego",
+        "price": 299.99,
+        "img_url": "https://unsplash.com/photos/4dIqUtrdJPc"
+    },
+    {
+        "name": "Lego Star Wars - Millennium Falcon",
+        "description": "Welcome to the largest, most detailed LEGO® Star Wars Millennium Falcon model we’ve ever created—in fact, with 7,500 pieces it’s one of our biggest LEGO models, period! This amazing LEGO interpretation of Han Solo’s unforgettable Corellian freighter has all the details that Star Wars fans of any age could wish for, including intricate exterior detailing, upper and lower quad laser cannons, landing legs, lowering boarding ramp and a 4-minifigure cockpit with detachable canopy.",
+        "category": "Lego",
+        "price": 599.99,
+        "img_url": "https://unsplash.com/photos/YjvPUg5rxIU"
+    },
+    {
+        "name": "Lego Wall E - Wall E",
+        "description": "Build a beautifully detailed LEGO® version of WALL•E—the last robot left on Earth! Created by Angus MacLane, an animator and director at Pixar Animation Studios, and selected by LEGO Ideas members, the development of this model began alongside the making of the lovable animated character for the classic Pixar feature film.",
+        "category": "Lego",
+        "price": 499.99,
+        "img_url": "https://unsplash.com/photos/81rOS-jYoJ8"
+    },
+    {
+        "name": "Lego Batman - Batman Mask",
+        "description": "Iconic Batman helmet to build and display This LEGO brick recreation of the unmistakable cowl worn by the Caped Crusader™ is sure to attract attention and admiration wherever it is placed. With transparent bricks to represent the face and a stylish fact plaque attached to the sturdy base, this remarkable model will provide a sense of fulfilment long after the construction work has finished.",
+        "category": "Lego",
+        "price": 59.99,
+        "img_url": "https://unsplash.com/photos/kNW0g2kXBe8"
+    },
+    {
+        "name": "Lego Star Wars Bundle - Darth Vader Helmet And TIE Fighter Pilot Helmet",
+        "description": "Display your allegiance Pay homage to the Dark Lord of the Sith with the new Darth Vader™ Helme And Defend the Dark Side Honor the Empire’s elite class of star fighters with the LEGO® Star Wars™ TIE Fighter Pilot™ Helmet.",
+        "category": "Lego",
+        "price": 109.99,
+        "img_url": "https://unsplash.com/photos/epRFE_hBNjo"
+    },
+    {
+        "name": "Soccer Ball",
+        "description": "Soccer Ball",
+        "category": "Sports",
+        "price": 12.99,
+        "img_url": "https://unsplash.com/photos/vKk7thmr9Mc"
+    },
+    {
+        "name": "Basketball Ball",
+        "description": "Basketball Ball",
+        "category": "Sports",
+        "price": 12.99,
+        "img_url": "https://unsplash.com/photos/Gl0jBJJTDWs"
+    },
+    {
+        "name": "Football Ball",
+        "description": "Football Ball",
+        "category": "Sports",
+        "price": 12.99,
+        "img_url": "https://unsplash.com/photos/XXqNsborcjU"
+    },
+    {
+        "name": "Ninja Turtles - Leonardo",
+        "description": "An Action Figure Of Leonardo The Ninja Turtle.",
+        "category": "Action Figures",
+        "price": 15.99,
+        "img_url": "https://unsplash.com/photos/QkCYDZ7JO8w"
+    },
+    {
+        "name": "Ninja Turtles - Donatelo",
+        "description": "An Action Figure Of Donatelo The Ninja Turtle.",
+        "category": "Action Figures",
+        "price": 15.99,
+        "img_url": "https://unsplash.com/photos/ITanOCOqIAA"
+    },
+    {
+        "name": "Ninja Turtles - Michelangelo",
+        "description": "An Action Figure Of Michelangelo The Ninja Turtle.",
+        "category": "Action Figures",
+        "price": 15.99,
+        "img_url": "https://unsplash.com/photos/gOsrH0hzJhw"
+    },
+    {
+        "name": "Ninja Turtles - Raffaello",
+        "description": "An Action Figure Of Raffaello The Ninja Turtle.",
+        "category": "Action Figures",
+        "price": 15.99,
+        "img_url": "https://unsplash.com/photos/jF3BY7AkZFI"
+    },
+    {
+        "name": "Marvel - Groot",
+        "description": "An Action Figure Of Groot From The MCU.",
+        "category": "Action Figures",
+        "price": 19.99,
+        "img_url": "https://unsplash.com/photos/3FA80_d8rHo"
+    },
+    {
+        "name": "Marvel - Deadpool",
+        "description": "An Action Figure Of Deadpool From The MCU.",
+        "category": "Action Figures",
+        "price": 19.99,
+        "img_url": "https://unsplash.com/photos/qcyOBGLsGJM"
+    },
+    {
+        "name": "Toy Story - Buzz Light Year",
+        "description": "An Action Figure Of Buzz Light Year From Toy Story.",
+        "category": "Action Figures",
+        "price": 19.99,
+        "img_url": "https://unsplash.com/photos/8FjAcgcWR4E"
+    },
+    {
+        "name": "Toy Story - Woody",
+        "description": "An Action Figure Of Woody From Toy Story.",
+        "category": "Action Figures",
+        "price": 19.99,
+        "img_url": "https://unsplash.com/photos/avRd6COyLBY"
+    },
+    {
+        "name": "Monkey Doll",
+        "description": "Monkey Plush Toy/Doll",
+        "category": "Dolls",
+        "price": 39.99,
+        "img_url": "https://unsplash.com/photos/avRd6COyLBY"
+    },
+    {
+        "name": "Avocado Toy",
+        "description": "Avocado Plush Toy/Doll",
+        "category": "Dolls",
+        "price": 29.99,
+        "img_url": "https://unsplash.com/photos/8V4y-XXT3MQ"
+    },
+    {
+        "name": "Teddy Bear Toy",
+        "description": "Bear Plush Toy/Doll",
+        "category": "Dolls",
+        "price": 49.99,
+        "img_url": "https://unsplash.com/photos/75IgLbgqRls"
+    },
+    {
+        "name": "Bunny Toy",
+        "description": "Bunny Plush Toy/Doll",
+        "category": "Dolls",
+        "price": 59.99,
+        "img_url": "https://unsplash.com/photos/Dxxn-1VpyFI"
+    },
+    {
+        "name": "Lego Cars - McLaren Elva",
+        "description": "This LEGO® Speed Champions McLaren Elva (76902) construction set gives kids and car enthusiasts the chance to collect, build and explore one of the world’s most exclusive speedsters. Stunning from every angle, this detailed replica delivers an engaging building experience, is perfect for display and awesome for super-aerodynamic racing action!",
+        "category": "Lego",
+        "price": 15.99,
+        "img_url": "https://unsplash.com/photos/OkX_IIw-F-I"
+    },
+    {
+        "name": "bazshnot",
+        "description": "spacetoy",
+        "category": "toy story",
+        "price": 700
+    }
+]
